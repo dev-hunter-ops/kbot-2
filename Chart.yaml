@@ -1,0 +1,17 @@
+apiVersion: v2
+name: myapp
+description: A Helm chart for deploying MyApp
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
+maintainers:
+  - name: Your Name
+    email: your.email@example.com
+sources:
+  - https://github.com/your-repo/myapp
+keywords:
+  - example
+  - helm
+  - chart
+home: https://github.com/your-repo/myapp
+icon: https://example.com/icon.png
